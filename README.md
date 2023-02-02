@@ -8,3 +8,11 @@
 ![screencapture-localhost-8080-Basket-2023-02-02-20_40_52](https://user-images.githubusercontent.com/95828884/216401203-cb59ace5-6ad6-49e4-a30a-a9184e9f0dc6.png)
 ![screencapture-localhost-8080-Product-17-2023-02-02-20_40_26](https://user-images.githubusercontent.com/95828884/216401206-2064ac27-c4d8-47e4-a15e-a1b372890c3f.png)
 ![screencapture-localhost-8080-Basket-2023-02-02-20_40_08](https://user-images.githubusercontent.com/95828884/216401212-7228915e-c02a-406f-bee4-03ddcd5ec202.png)
+
+
+![screencapture-127-0-0-1-8080-2023-02-03-00_53_05](https://user-images.githubusercontent.com/95828884/216458641-0067bd1e-c147-4450-89e9-5f171cf81580.png)
+![screencapture-127-0-0-1-8080-Product-8-2023-02-03-00_53_23](https://user-images.githubusercontent.com/95828884/216458643-518e4abb-f0e6-4ae0-8bc1-d4e30761e00e.png)
+![screencapture-127-0-0-1-8080-Basket-2023-02-03-00_55_29](https://user-images.githubusercontent.com/95828884/216458650-1a0fe844-6710-4311-afa8-caecafa724ea.png)
+
+
+
